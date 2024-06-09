@@ -1,8 +1,8 @@
 # API_UploadAndDownload
 
-##Ferramentas Usadas:
+## Ferramentas Usadas:
 Python
 Flask
 
-##Objetivo
+## Objetivo
 Através de uma API feita em Flask foi possivel criar uma área para download e upload de arquivos
